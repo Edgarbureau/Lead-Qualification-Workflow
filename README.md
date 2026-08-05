@@ -48,13 +48,6 @@ Scores are calculated with plain JavaScript lookup tables rather than long if/el
 ## Screenshots
 ![Code node](Java$20Script%20code.jpeg) | ![Sheet log](Google%20Sheet.jpeg) |
 
-## Setup
-1. Create a Google Form with the 5 scoring fields + Name/Email, linked to a Google Sheet
-2. Import `workflow.json` into n8n
-3. Connect credentials: Google Sheets OAuth, Slack Bot Token, Gmail OAuth
-4. Update the Switch node's Slack channel IDs and Gmail sender address
-5. Activate the workflow
-
 ---
 
 Built by Edgar — part of a portfolio of n8n automation projects covering both deterministic workflows and AI-agent systems.
