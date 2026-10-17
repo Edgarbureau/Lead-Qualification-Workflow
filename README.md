@@ -46,7 +46,7 @@ Scores are calculated with plain JavaScript lookup tables rather than long if/el
 - Gmail API — lead-facing emails
 
 ## Screenshots
-![Code node](Java$20Script%20code.jpeg) | ![Sheet log](Google%20Sheet.jpeg) |
+![Code node](Java%20Script%20code.jpeg) | ![Sheet log](Google%20Sheet.jpeg) |
 
 ---
 
